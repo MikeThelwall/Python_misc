@@ -1,2 +1,2 @@
 # Python_misc
-Miscellaneous Python code
+Miscellaneous Python code from my papers
